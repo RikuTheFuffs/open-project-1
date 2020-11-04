@@ -14,6 +14,8 @@ public class SpawnSystem : MonoBehaviour
 	[SerializeField] private CameraManager _cameraManager;
 	[SerializeField] private Transform[] _spawnLocations;
 
+	public CameraManager CameraManager { get { return _cameraManager; } }
+
 	void Start()
 	{
 		try
