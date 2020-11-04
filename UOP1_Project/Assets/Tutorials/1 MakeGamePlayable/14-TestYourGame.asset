@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Paragraphs:
     m_Items:
-    - m_Type: 6
+    - m_Type: 7
       m_Summary: 
       m_Description: 
       m_InstructionBoxTitle: 
@@ -24,7 +24,7 @@ MonoBehaviour:
       m_Icons:
         m_Items: []
       m_Image: {fileID: 0}
-      m_Video: {fileID: 0}
+      m_Video: {fileID: 32900000, guid: 829414975cc75ac4bb4d12192b3ffbcd, type: 3}
       m_CriteriaCompletion: 0
       m_Criteria:
         m_Items: []
