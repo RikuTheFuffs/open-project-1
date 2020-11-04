@@ -33,7 +33,7 @@ MonoBehaviour:
         m_UnmaskedViews: []
     - m_Type: 0
       m_Summary: Tutorial completed, yay!
-      m_Description: Now go to the next one
+      m_Description: Now go to the next one, or just click <a href="https://unity.com/">here</a>
       m_InstructionBoxTitle: 
       m_InstructionText: 
       m_TutorialButtonText: 
